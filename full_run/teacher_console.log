@@ -1,0 +1,29 @@
+Training teacher on cuda: 4470 train, 398 val
+teacher 1/8: train=1.1665 val=1.1759 elapsed=253s
+teacher 2/8: train=0.9058 val=0.9205 elapsed=482s
+teacher 3/8: train=0.7697 val=1.1930 elapsed=704s
+teacher 4/8: train=0.6887 val=1.0069 elapsed=918s
+teacher 5/8: train=0.5777 val=0.9005 elapsed=1127s
+teacher 6/8: train=0.5489 val=0.8441 elapsed=1336s
+teacher 7/8: train=0.5139 val=0.9947 elapsed=1543s
+teacher 8/8: train=0.4420 val=0.8511 elapsed=3322s
+{
+  "model": "teacher",
+  "seed": 42,
+  "epochs_requested": 8,
+  "epochs_completed": 8,
+  "batch_size": 8,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.0001,
+  "optimizer": "AdamW",
+  "input_size": 224,
+  "training_sampler": "balanced replacement sampler by image label",
+  "supervised_loss": "BCE class + 0.5 weighted BCE mask + 0.5 Dice",
+  "distillation": "student only: 0.3 soft binary logit BCE at T=2 + 0.2 map MSE",
+  "checkpoint_selection": "lowest validation supervised loss",
+  "training_seconds": 3321.5259556999663,
+  "device": "cuda",
+  "pytorch": "2.11.0+cu128",
+  "gpu_name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "peak_allocated_vram_mb": 346.899456
+}

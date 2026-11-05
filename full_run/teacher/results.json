@@ -1,0 +1,389 @@
+{
+  "classification": {
+    "n": 486,
+    "normal": 123,
+    "defect": 363,
+    "tp": 342,
+    "fp": 22,
+    "tn": 101,
+    "fn": 21,
+    "accuracy": 0.911522633744856,
+    "precision": 0.9395604395604396,
+    "recall": 0.9421487603305785,
+    "f1": 0.9408528198074279,
+    "image_auroc": 0.960962171605187
+  },
+  "localization": {
+    "pixel_auroc": 0.9652953346200426,
+    "pixel_iou": 0.6097695245073784,
+    "intersection_pixels": 645763,
+    "union_pixels": 1059028
+  },
+  "per_category": {
+    "bottle": {
+      "classification": {
+        "n": 22,
+        "normal": 5,
+        "defect": 17,
+        "tp": 14,
+        "fp": 0,
+        "tn": 5,
+        "fn": 3,
+        "accuracy": 0.8636363636363636,
+        "precision": 1.0,
+        "recall": 0.8235294117647058,
+        "f1": 0.9032258064516129,
+        "image_auroc": 1.0
+      },
+      "localization": {
+        "pixel_auroc": 0.8963323112020544,
+        "pixel_iou": 0.4212495800363775,
+        "intersection_pixels": 36361,
+        "union_pixels": 86317
+      }
+    },
+    "cable": {
+      "classification": {
+        "n": 42,
+        "normal": 15,
+        "defect": 27,
+        "tp": 27,
+        "fp": 1,
+        "tn": 14,
+        "fn": 0,
+        "accuracy": 0.9761904761904762,
+        "precision": 0.9642857142857143,
+        "recall": 1.0,
+        "f1": 0.9818181818181818,
+        "image_auroc": 0.9975308641975308
+      },
+      "localization": {
+        "pixel_auroc": 0.9064486844392827,
+        "pixel_iou": 0.47829348975207175,
+        "intersection_pixels": 42075,
+        "union_pixels": 87969
+      }
+    },
+    "capsule": {
+      "classification": {
+        "n": 38,
+        "normal": 7,
+        "defect": 31,
+        "tp": 29,
+        "fp": 3,
+        "tn": 4,
+        "fn": 2,
+        "accuracy": 0.868421052631579,
+        "precision": 0.90625,
+        "recall": 0.9354838709677419,
+        "f1": 0.9206349206349206,
+        "image_auroc": 0.9447004608294931
+      },
+      "localization": {
+        "pixel_auroc": 0.9030618182913301,
+        "pixel_iou": 0.2670443050778879,
+        "intersection_pixels": 3960,
+        "union_pixels": 14829
+      }
+    },
+    "carpet": {
+      "classification": {
+        "n": 34,
+        "normal": 7,
+        "defect": 27,
+        "tp": 27,
+        "fp": 0,
+        "tn": 7,
+        "fn": 0,
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "image_auroc": 0.9999999999999999
+      },
+      "localization": {
+        "pixel_auroc": 0.9893113514714665,
+        "pixel_iou": 0.6329934080793285,
+        "intersection_pixels": 22470,
+        "union_pixels": 35498
+      }
+    },
+    "grid": {
+      "classification": {
+        "n": 24,
+        "normal": 6,
+        "defect": 18,
+        "tp": 16,
+        "fp": 0,
+        "tn": 6,
+        "fn": 2,
+        "accuracy": 0.9166666666666666,
+        "precision": 1.0,
+        "recall": 0.8888888888888888,
+        "f1": 0.9411764705882353,
+        "image_auroc": 1.0
+      },
+      "localization": {
+        "pixel_auroc": 0.8919797591611704,
+        "pixel_iou": 0.284354272337105,
+        "intersection_pixels": 3644,
+        "union_pixels": 12815
+      }
+    },
+    "hazelnut": {
+      "classification": {
+        "n": 30,
+        "normal": 10,
+        "defect": 20,
+        "tp": 20,
+        "fp": 0,
+        "tn": 10,
+        "fn": 0,
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "image_auroc": 1.0
+      },
+      "localization": {
+        "pixel_auroc": 0.9263286756569558,
+        "pixel_iou": 0.366866782621706,
+        "intersection_pixels": 19616,
+        "union_pixels": 53469
+      }
+    },
+    "leather": {
+      "classification": {
+        "n": 36,
+        "normal": 8,
+        "defect": 28,
+        "tp": 28,
+        "fp": 0,
+        "tn": 8,
+        "fn": 0,
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "image_auroc": 1.0
+      },
+      "localization": {
+        "pixel_auroc": 0.9943713279825941,
+        "pixel_iou": 0.5952856314806466,
+        "intersection_pixels": 9243,
+        "union_pixels": 15527
+      }
+    },
+    "metal_nut": {
+      "classification": {
+        "n": 33,
+        "normal": 6,
+        "defect": 27,
+        "tp": 25,
+        "fp": 0,
+        "tn": 6,
+        "fn": 2,
+        "accuracy": 0.9393939393939394,
+        "precision": 1.0,
+        "recall": 0.9259259259259259,
+        "f1": 0.9615384615384615,
+        "image_auroc": 1.0
+      },
+      "localization": {
+        "pixel_auroc": 0.9873281198069147,
+        "pixel_iou": 0.7057630210708747,
+        "intersection_pixels": 193432,
+        "union_pixels": 274075
+      }
+    },
+    "pill": {
+      "classification": {
+        "n": 47,
+        "normal": 7,
+        "defect": 40,
+        "tp": 40,
+        "fp": 7,
+        "tn": 0,
+        "fn": 0,
+        "accuracy": 0.851063829787234,
+        "precision": 0.851063829787234,
+        "recall": 1.0,
+        "f1": 0.9195402298850576,
+        "image_auroc": 0.9392857142857144
+      },
+      "localization": {
+        "pixel_auroc": 0.9925692938534934,
+        "pixel_iou": 0.7610867496793944,
+        "intersection_pixels": 73591,
+        "union_pixels": 96692
+      }
+    },
+    "screw": {
+      "classification": {
+        "n": 44,
+        "normal": 11,
+        "defect": 33,
+        "tp": 29,
+        "fp": 3,
+        "tn": 8,
+        "fn": 4,
+        "accuracy": 0.8409090909090909,
+        "precision": 0.90625,
+        "recall": 0.8787878787878788,
+        "f1": 0.8923076923076922,
+        "image_auroc": 0.8898071625344353
+      },
+      "localization": {
+        "pixel_auroc": 0.8352267438522853,
+        "pixel_iou": 0.1431124880838894,
+        "intersection_pixels": 1201,
+        "union_pixels": 8392
+      }
+    },
+    "tile": {
+      "classification": {
+        "n": 33,
+        "normal": 9,
+        "defect": 24,
+        "tp": 21,
+        "fp": 0,
+        "tn": 9,
+        "fn": 3,
+        "accuracy": 0.9090909090909091,
+        "precision": 1.0,
+        "recall": 0.875,
+        "f1": 0.9333333333333333,
+        "image_auroc": 0.9814814814814815
+      },
+      "localization": {
+        "pixel_auroc": 0.9676080342835879,
+        "pixel_iou": 0.6885556254105946,
+        "intersection_pixels": 97474,
+        "union_pixels": 141563
+      }
+    },
+    "toothbrush": {
+      "classification": {
+        "n": 11,
+        "normal": 3,
+        "defect": 8,
+        "tp": 6,
+        "fp": 1,
+        "tn": 2,
+        "fn": 2,
+        "accuracy": 0.7272727272727273,
+        "precision": 0.8571428571428571,
+        "recall": 0.75,
+        "f1": 0.7999999999999999,
+        "image_auroc": 0.875
+      },
+      "localization": {
+        "pixel_auroc": 0.9166315255207926,
+        "pixel_iou": 0.4813001650822565,
+        "intersection_pixels": 8455,
+        "union_pixels": 17567
+      }
+    },
+    "transistor": {
+      "classification": {
+        "n": 27,
+        "normal": 15,
+        "defect": 12,
+        "tp": 12,
+        "fp": 7,
+        "tn": 8,
+        "fn": 0,
+        "accuracy": 0.7407407407407407,
+        "precision": 0.631578947368421,
+        "recall": 1.0,
+        "f1": 0.7741935483870968,
+        "image_auroc": 0.9666666666666667
+      },
+      "localization": {
+        "pixel_auroc": 0.9886159657215093,
+        "pixel_iou": 0.6455703221751908,
+        "intersection_pixels": 69852,
+        "union_pixels": 108202
+      }
+    },
+    "wood": {
+      "classification": {
+        "n": 24,
+        "normal": 6,
+        "defect": 18,
+        "tp": 15,
+        "fp": 0,
+        "tn": 6,
+        "fn": 3,
+        "accuracy": 0.875,
+        "precision": 1.0,
+        "recall": 0.8333333333333334,
+        "f1": 0.9090909090909091,
+        "image_auroc": 0.9629629629629628
+      },
+      "localization": {
+        "pixel_auroc": 0.9268090953973896,
+        "pixel_iou": 0.5321002332068224,
+        "intersection_pixels": 23273,
+        "union_pixels": 43738
+      }
+    },
+    "zipper": {
+      "classification": {
+        "n": 41,
+        "normal": 8,
+        "defect": 33,
+        "tp": 33,
+        "fp": 0,
+        "tn": 8,
+        "fn": 0,
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "image_auroc": 1.0
+      },
+      "localization": {
+        "pixel_auroc": 0.9907066174170865,
+        "pixel_iou": 0.6591743486973948,
+        "intersection_pixels": 41116,
+        "union_pixels": 62375
+      }
+    }
+  },
+  "macro_pixel_auroc": 0.9408886216038609,
+  "macro_pixel_iou": 0.5108500281861027,
+  "model": "teacher",
+  "dataset": "MVTec AD",
+  "protocol": "custom supervised split",
+  "seed": 42,
+  "class_threshold_from_validation": 0.05,
+  "mask_threshold_from_validation": 0.7000000000000001,
+  "model_size_mb": 51.044135,
+  "parameters": 12735970,
+  "estimated_macs": 2265798144,
+  "macs_method": "THOP convolution/linear operator estimate; interpolation excluded",
+  "model_only_latency": {
+    "device": "cuda",
+    "scope": "model forward only, classification and mask",
+    "batch_size": 1,
+    "warmup": 30,
+    "trials": 150,
+    "mean_ms": 8.452484003889063,
+    "p95_ms": 10.94494992867112,
+    "fps": 118.30841673759939,
+    "peak_allocated_vram_mb": 72.641536
+  },
+  "cpu_pipeline": {
+    "device": "cpu",
+    "source": "saved-image virtual camera",
+    "frames": 486,
+    "flagged_events": 364,
+    "event_bytes": 60976,
+    "source_image_bytes": 475195351,
+    "scope": "file load, RGB resize, normalization, model forward, threshold and bounding box; no physical camera or MQTT",
+    "mean_ms": 79.94540864381356,
+    "p95_ms": 101.41075006686151,
+    "fps": 12.508535724113573
+  }
+}

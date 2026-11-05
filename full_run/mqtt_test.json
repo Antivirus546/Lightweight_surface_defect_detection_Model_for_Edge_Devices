@@ -1,0 +1,12 @@
+{
+  "source": "C:\\Users\\aniru\\Documents\\Codex\\2026-10-30\\t\\work\\full_run\\student\\int8_onnx_events.jsonl",
+  "broker": "local amqtt 127.0.0.1:18883",
+  "protocol": "MQTT QoS 1",
+  "topic": "inspection/defects",
+  "published_events": 405,
+  "received_events": 405,
+  "payload_bytes": 66762,
+  "roundtrip_batch_seconds": 0.632216600002721,
+  "result": "pass",
+  "scope": "saved-image event transport on laptop localhost; no cloud or physical device"
+}

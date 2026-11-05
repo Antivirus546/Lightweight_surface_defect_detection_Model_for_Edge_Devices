@@ -1,0 +1,30 @@
+Training student on cuda: 4470 train, 398 val
+student 1/8: train=2.0486 val=1.1529 elapsed=137s
+student 2/8: train=1.6145 val=1.0917 elapsed=212s
+student 3/8: train=1.4139 val=1.0464 elapsed=284s
+student 4/8: train=1.2822 val=0.8742 elapsed=351s
+student 5/8: train=1.1645 val=0.7985 elapsed=415s
+student 6/8: train=1.0768 val=0.9972 elapsed=478s
+student 7/8: train=1.0258 val=0.8596 elapsed=539s
+student 8/8: train=0.9363 val=0.8379 elapsed=600s
+Early stopping on validation loss
+{
+  "model": "student",
+  "seed": 42,
+  "epochs_requested": 8,
+  "epochs_completed": 8,
+  "batch_size": 8,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.0001,
+  "optimizer": "AdamW",
+  "input_size": 224,
+  "training_sampler": "balanced replacement sampler by image label",
+  "supervised_loss": "BCE class + 0.5 weighted BCE mask + 0.5 Dice",
+  "distillation": "student only: 0.3 soft binary logit BCE at T=2 + 0.2 map MSE",
+  "checkpoint_selection": "lowest validation supervised loss",
+  "training_seconds": 599.7909420999931,
+  "device": "cuda",
+  "pytorch": "2.11.0+cu128",
+  "gpu_name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "peak_allocated_vram_mb": 236.226048
+}

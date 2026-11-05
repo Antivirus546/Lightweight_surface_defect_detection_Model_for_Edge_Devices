@@ -1,0 +1,26 @@
+EMBEDDED SYSTEMS PROJECT AND LIVE DEMO
+
+Open ES_Final_Report_Full_Study.pdf for the report.
+Open ES_Simulation_Preview.png for an immediate preview.
+Double-click Show_ES_Simulation.bat on Windows to process six held-out
+bottle images through the trained FP32 student model and open the preview.
+
+If Python reports missing packages, install Python 3.13 and run:
+    python -m venv .demo_venv
+    .demo_venv\Scripts\python.exe -m pip install numpy pillow onnxruntime
+Then double-click Show_ES_Simulation.bat again.
+
+The six sample images and masks are inside demo_data. The full MVTec AD
+dataset is not included (the original archive is over 5 GB). For a full
+re-run of training and testing, obtain it from the official source:
+https://www.mvtec.com/research-teaching/datasets/mvtec-ad
+MVTec AD attribution: MVTec Software GmbH, CC BY-NC-SA 4.0.
+
+The Python demo reads saved images as virtual camera frames. It is a real
+model inference run, but not a physical camera or embedded-device test.
+The ground-truth mask is displayed for checking and is never model input.
+
+All study scripts, checkpoints, ONNX models, raw results, logs, split
+manifest, and the MQTT local test are also in this ZIP. See README.md
+for study details and reproduction steps. Full-set simulation code is
+full_evaluate.py; the classroom demo is ES_Simulation_Demo.py.

@@ -1,0 +1,212 @@
+{
+  "bottle": {
+    "train": {
+      "normal": 219,
+      "defect": 31
+    },
+    "val": {
+      "normal": 5,
+      "defect": 15
+    },
+    "test": {
+      "normal": 5,
+      "defect": 17
+    }
+  },
+  "cable": {
+    "train": {
+      "normal": 253,
+      "defect": 45
+    },
+    "val": {
+      "normal": 14,
+      "defect": 20
+    },
+    "test": {
+      "normal": 15,
+      "defect": 27
+    }
+  },
+  "capsule": {
+    "train": {
+      "normal": 230,
+      "defect": 53
+    },
+    "val": {
+      "normal": 5,
+      "defect": 25
+    },
+    "test": {
+      "normal": 7,
+      "defect": 31
+    }
+  },
+  "carpet": {
+    "train": {
+      "normal": 294,
+      "defect": 42
+    },
+    "val": {
+      "normal": 7,
+      "defect": 20
+    },
+    "test": {
+      "normal": 7,
+      "defect": 27
+    }
+  },
+  "grid": {
+    "train": {
+      "normal": 274,
+      "defect": 27
+    },
+    "val": {
+      "normal": 5,
+      "defect": 12
+    },
+    "test": {
+      "normal": 6,
+      "defect": 18
+    }
+  },
+  "hazelnut": {
+    "train": {
+      "normal": 411,
+      "defect": 34
+    },
+    "val": {
+      "normal": 10,
+      "defect": 16
+    },
+    "test": {
+      "normal": 10,
+      "defect": 20
+    }
+  },
+  "leather": {
+    "train": {
+      "normal": 261,
+      "defect": 44
+    },
+    "val": {
+      "normal": 8,
+      "defect": 20
+    },
+    "test": {
+      "normal": 8,
+      "defect": 28
+    }
+  },
+  "metal_nut": {
+    "train": {
+      "normal": 231,
+      "defect": 45
+    },
+    "val": {
+      "normal": 5,
+      "defect": 21
+    },
+    "test": {
+      "normal": 6,
+      "defect": 27
+    }
+  },
+  "pill": {
+    "train": {
+      "normal": 280,
+      "defect": 68
+    },
+    "val": {
+      "normal": 6,
+      "defect": 33
+    },
+    "test": {
+      "normal": 7,
+      "defect": 40
+    }
+  },
+  "screw": {
+    "train": {
+      "normal": 340,
+      "defect": 58
+    },
+    "val": {
+      "normal": 10,
+      "defect": 28
+    },
+    "test": {
+      "normal": 11,
+      "defect": 33
+    }
+  },
+  "tile": {
+    "train": {
+      "normal": 246,
+      "defect": 41
+    },
+    "val": {
+      "normal": 8,
+      "defect": 19
+    },
+    "test": {
+      "normal": 9,
+      "defect": 24
+    }
+  },
+  "toothbrush": {
+    "train": {
+      "normal": 66,
+      "defect": 15
+    },
+    "val": {
+      "normal": 3,
+      "defect": 7
+    },
+    "test": {
+      "normal": 3,
+      "defect": 8
+    }
+  },
+  "transistor": {
+    "train": {
+      "normal": 243,
+      "defect": 20
+    },
+    "val": {
+      "normal": 15,
+      "defect": 8
+    },
+    "test": {
+      "normal": 15,
+      "defect": 12
+    }
+  },
+  "wood": {
+    "train": {
+      "normal": 256,
+      "defect": 29
+    },
+    "val": {
+      "normal": 4,
+      "defect": 13
+    },
+    "test": {
+      "normal": 6,
+      "defect": 18
+    }
+  },
+  "zipper": {
+    "train": {
+      "normal": 256,
+      "defect": 58
+    },
+    "val": {
+      "normal": 8,
+      "defect": 28
+    },
+    "test": {
+      "normal": 8,
+      "defect": 33
+    }
+  }
+}

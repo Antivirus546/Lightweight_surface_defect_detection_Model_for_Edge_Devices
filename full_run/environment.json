@@ -1,0 +1,14 @@
+{
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]",
+  "cpu": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+  "physical_ram_gb": 16.42,
+  "pytorch": "2.11.0+cu128",
+  "torchvision": "0.26.0+cu128",
+  "onnxruntime": "1.31.1",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "gpu_memory_gb": 8.59,
+  "torch_cuda_runtime": "12.8",
+  "nvidia_smi": "NVIDIA GeForce RTX 4060 Laptop GPU, 8188 MiB, 610.74"
+}

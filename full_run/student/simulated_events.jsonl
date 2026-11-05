@@ -1,0 +1,401 @@
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_large/005.png", "category": "bottle", "score": 0.9989157915115356, "bbox_224": [149, 67, 190, 130]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_large/006.png", "category": "bottle", "score": 0.9995929598808289, "bbox_224": [33, 30, 180, 130]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_large/002.png", "category": "bottle", "score": 0.998310923576355, "bbox_224": [36, 42, 190, 158]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_large/017.png", "category": "bottle", "score": 0.9949933886528015, "bbox_224": [28, 33, 172, 175]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_large/016.png", "category": "bottle", "score": 0.9993415474891663, "bbox_224": [50, 40, 196, 187]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_small/008.png", "category": "bottle", "score": 0.9602681994438171, "bbox_224": [114, 139, 168, 185]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_small/009.png", "category": "bottle", "score": 0.9848998785018921, "bbox_224": [51, 147, 114, 184]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_small/021.png", "category": "bottle", "score": 0.9944947361946106, "bbox_224": [149, 109, 183, 159]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_small/016.png", "category": "bottle", "score": 0.997200608253479, "bbox_224": [139, 52, 186, 105]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_small/003.png", "category": "bottle", "score": 0.9914848208427429, "bbox_224": [41, 107, 181, 190]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/broken_small/007.png", "category": "bottle", "score": 0.9943528175354004, "bbox_224": [158, 78, 191, 133]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/contamination/011.png", "category": "bottle", "score": 0.9851640462875366, "bbox_224": [69, 73, 147, 140]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/contamination/016.png", "category": "bottle", "score": 0.07862751185894012, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/contamination/010.png", "category": "bottle", "score": 0.9738529920578003, "bbox_224": [95, 78, 148, 137]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/contamination/019.png", "category": "bottle", "score": 0.17208437621593475, "bbox_224": [161, 100, 190, 133]}
+{"source": "saved-image virtual camera", "image_id": "bottle/test/contamination/008.png", "category": "bottle", "score": 0.9950461387634277, "bbox_224": [92, 73, 160, 123]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/bent_wire/008.png", "category": "cable", "score": 0.10422606021165848, "bbox_224": [60, 62, 97, 85]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/bent_wire/000.png", "category": "cable", "score": 0.8350748419761658, "bbox_224": [53, 105, 108, 149]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/bent_wire/011.png", "category": "cable", "score": 0.9995737671852112, "bbox_224": [52, 36, 178, 184]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/bent_wire/004.png", "category": "cable", "score": 0.999971866607666, "bbox_224": [127, 88, 194, 153]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/cable_swap/001.png", "category": "cable", "score": 0.36781778931617737, "bbox_224": [88, 45, 184, 131]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/combined/007.png", "category": "cable", "score": 0.9965914487838745, "bbox_224": [84, 43, 136, 92]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/combined/002.png", "category": "cable", "score": 0.5336437821388245, "bbox_224": [165, 69, 207, 99]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/combined/003.png", "category": "cable", "score": 0.9947287440299988, "bbox_224": [89, 40, 178, 93]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/combined/008.png", "category": "cable", "score": 0.9997175335884094, "bbox_224": [90, 21, 174, 149]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/cut_inner_insulation/003.png", "category": "cable", "score": 0.9255708456039429, "bbox_224": [60, 44, 166, 148]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/cut_inner_insulation/012.png", "category": "cable", "score": 0.5966097712516785, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "cable/test/cut_inner_insulation/006.png", "category": "cable", "score": 0.9924484491348267, "bbox_224": [50, 101, 99, 147]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/cut_inner_insulation/008.png", "category": "cable", "score": 0.8069196939468384, "bbox_224": [111, 97, 139, 137]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/cut_outer_insulation/007.png", "category": "cable", "score": 0.11205054819583893, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "cable/test/cut_outer_insulation/006.png", "category": "cable", "score": 0.4823843538761139, "bbox_224": [30, 65, 60, 82]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/cut_outer_insulation/009.png", "category": "cable", "score": 0.9983839988708496, "bbox_224": [20, 101, 70, 124]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/missing_cable/009.png", "category": "cable", "score": 0.9999595880508423, "bbox_224": [43, 38, 149, 154]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/missing_cable/000.png", "category": "cable", "score": 0.9972447156906128, "bbox_224": [77, 39, 154, 107]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/missing_cable/007.png", "category": "cable", "score": 0.9999362230300903, "bbox_224": [69, 38, 184, 162]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/missing_wire/006.png", "category": "cable", "score": 0.9709161520004272, "bbox_224": [86, 49, 129, 92]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/missing_wire/007.png", "category": "cable", "score": 0.7399018406867981, "bbox_224": [46, 113, 93, 155]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/missing_wire/008.png", "category": "cable", "score": 0.9995263814926147, "bbox_224": [127, 108, 175, 155]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/poke_insulation/007.png", "category": "cable", "score": 0.15905529260635376, "bbox_224": [93, 166, 117, 193]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/poke_insulation/009.png", "category": "cable", "score": 0.12236542254686356, "bbox_224": [96, 175, 134, 198]}
+{"source": "saved-image virtual camera", "image_id": "cable/test/poke_insulation/006.png", "category": "cable", "score": 0.05729587748646736, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/crack/007.png", "category": "capsule", "score": 0.5596053004264832, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/crack/021.png", "category": "capsule", "score": 0.7021669745445251, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/crack/013.png", "category": "capsule", "score": 0.6615732908248901, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/crack/009.png", "category": "capsule", "score": 0.9577956199645996, "bbox_224": [96, 81, 122, 93]}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/crack/019.png", "category": "capsule", "score": 0.682379424571991, "bbox_224": [127, 82, 154, 104]}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/crack/018.png", "category": "capsule", "score": 0.5733123421669006, "bbox_224": [184, 130, 194, 138]}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/crack/022.png", "category": "capsule", "score": 0.2589793801307678, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/faulty_imprint/014.png", "category": "capsule", "score": 0.9476984739303589, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/faulty_imprint/016.png", "category": "capsule", "score": 0.863743245601654, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/faulty_imprint/005.png", "category": "capsule", "score": 0.2878165543079376, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/faulty_imprint/019.png", "category": "capsule", "score": 0.6937811970710754, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/faulty_imprint/009.png", "category": "capsule", "score": 0.727834165096283, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/faulty_imprint/010.png", "category": "capsule", "score": 0.9400517344474792, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/good/007.png", "category": "capsule", "score": 0.4166174530982971, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/good/009.png", "category": "capsule", "score": 0.2127588391304016, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/good/021.png", "category": "capsule", "score": 0.32793548703193665, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/good/003.png", "category": "capsule", "score": 0.1283569186925888, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/good/002.png", "category": "capsule", "score": 0.1948348432779312, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/good/014.png", "category": "capsule", "score": 0.40863236784935, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/good/000.png", "category": "capsule", "score": 0.36700013279914856, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/poke/013.png", "category": "capsule", "score": 0.9476484656333923, "bbox_224": [65, 98, 79, 112]}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/poke/005.png", "category": "capsule", "score": 0.35627102851867676, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/poke/007.png", "category": "capsule", "score": 0.2908423840999603, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/poke/004.png", "category": "capsule", "score": 0.5565909147262573, "bbox_224": [152, 107, 178, 121]}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/poke/003.png", "category": "capsule", "score": 0.38034385442733765, "bbox_224": [121, 105, 132, 112]}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/poke/019.png", "category": "capsule", "score": 0.6745896935462952, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/scratch/012.png", "category": "capsule", "score": 0.4198112487792969, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/scratch/017.png", "category": "capsule", "score": 0.8389958143234253, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/scratch/002.png", "category": "capsule", "score": 0.8427790403366089, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/scratch/009.png", "category": "capsule", "score": 0.5316123366355896, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/scratch/011.png", "category": "capsule", "score": 0.5186476707458496, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/scratch/014.png", "category": "capsule", "score": 0.9794871211051941, "bbox_224": [166, 86, 167, 86]}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/scratch/016.png", "category": "capsule", "score": 0.8824565410614014, "bbox_224": [129, 101, 144, 113]}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/squeeze/013.png", "category": "capsule", "score": 0.4447656273841858, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/squeeze/017.png", "category": "capsule", "score": 0.9455379247665405, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/squeeze/003.png", "category": "capsule", "score": 0.5932509303092957, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/squeeze/005.png", "category": "capsule", "score": 0.4106616675853729, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "capsule/test/squeeze/016.png", "category": "capsule", "score": 0.9916025996208191, "bbox_224": [116, 78, 180, 146]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/color/004.png", "category": "carpet", "score": 0.9994398951530457, "bbox_224": [157, 68, 191, 104]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/color/000.png", "category": "carpet", "score": 0.9993351101875305, "bbox_224": [31, 111, 83, 172]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/color/017.png", "category": "carpet", "score": 0.9998853206634521, "bbox_224": [63, 107, 111, 152]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/color/003.png", "category": "carpet", "score": 0.9997655749320984, "bbox_224": [35, 76, 63, 104]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/color/008.png", "category": "carpet", "score": 0.9992844462394714, "bbox_224": [72, 67, 137, 142]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/color/005.png", "category": "carpet", "score": 0.9990189075469971, "bbox_224": [40, 52, 71, 85]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/cut/001.png", "category": "carpet", "score": 0.9997150301933289, "bbox_224": [135, 105, 171, 158]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/cut/016.png", "category": "carpet", "score": 0.9987872242927551, "bbox_224": [98, 103, 138, 150]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/cut/011.png", "category": "carpet", "score": 0.9998805522918701, "bbox_224": [35, 82, 122, 134]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/cut/004.png", "category": "carpet", "score": 0.9998818635940552, "bbox_224": [30, 75, 65, 100]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/cut/003.png", "category": "carpet", "score": 0.9999179840087891, "bbox_224": [86, 91, 130, 129]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/good/019.png", "category": "carpet", "score": 0.18330813944339752, "bbox_224": [152, 66, 170, 86]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/hole/006.png", "category": "carpet", "score": 0.9993578791618347, "bbox_224": [101, 107, 130, 147]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/hole/000.png", "category": "carpet", "score": 0.9955264925956726, "bbox_224": [39, 133, 66, 160]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/hole/002.png", "category": "carpet", "score": 0.9998452663421631, "bbox_224": [113, 45, 145, 73]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/hole/010.png", "category": "carpet", "score": 0.9999116659164429, "bbox_224": [41, 122, 79, 153]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/hole/004.png", "category": "carpet", "score": 0.9961775541305542, "bbox_224": [155, 108, 185, 144]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/metal_contamination/006.png", "category": "carpet", "score": 0.7443282008171082, "bbox_224": [73, 66, 103, 92]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/metal_contamination/002.png", "category": "carpet", "score": 0.9998315572738647, "bbox_224": [130, 137, 159, 163]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/metal_contamination/011.png", "category": "carpet", "score": 0.9998774528503418, "bbox_224": [140, 151, 163, 173]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/metal_contamination/008.png", "category": "carpet", "score": 0.9997667670249939, "bbox_224": [139, 115, 164, 148]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/metal_contamination/016.png", "category": "carpet", "score": 0.8832076191902161, "bbox_224": [63, 108, 83, 125]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/thread/011.png", "category": "carpet", "score": 0.20238380134105682, "bbox_224": [50, 119, 76, 165]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/thread/016.png", "category": "carpet", "score": 0.9872161746025085, "bbox_224": [32, 22, 65, 65]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/thread/002.png", "category": "carpet", "score": 0.9995976090431213, "bbox_224": [92, 108, 118, 127]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/thread/018.png", "category": "carpet", "score": 0.11868169158697128, "bbox_224": [83, 163, 99, 184]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/thread/006.png", "category": "carpet", "score": 0.9964955449104309, "bbox_224": [63, 33, 147, 214]}
+{"source": "saved-image virtual camera", "image_id": "carpet/test/thread/008.png", "category": "carpet", "score": 0.9999657869338989, "bbox_224": [91, 134, 179, 184]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/bent/003.png", "category": "grid", "score": 0.987177848815918, "bbox_224": [50, 30, 135, 119]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/bent/004.png", "category": "grid", "score": 0.9951834082603455, "bbox_224": [34, 104, 52, 123]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/bent/009.png", "category": "grid", "score": 0.9997733235359192, "bbox_224": [69, 43, 94, 70]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/broken/010.png", "category": "grid", "score": 0.8666201829910278, "bbox_224": [92, 112, 107, 122]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/broken/003.png", "category": "grid", "score": 0.9998718500137329, "bbox_224": [46, 81, 192, 157]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/broken/006.png", "category": "grid", "score": 0.9993866682052612, "bbox_224": [66, 49, 154, 96]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/glue/002.png", "category": "grid", "score": 0.8640121221542358, "bbox_224": [75, 42, 92, 63]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/glue/006.png", "category": "grid", "score": 0.08955015242099762, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "grid/test/good/004.png", "category": "grid", "score": 0.07960811257362366, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "grid/test/metal_contamination/005.png", "category": "grid", "score": 0.9916958212852478, "bbox_224": [121, 42, 144, 68]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/metal_contamination/001.png", "category": "grid", "score": 0.9994543194770813, "bbox_224": [147, 19, 177, 44]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/metal_contamination/003.png", "category": "grid", "score": 0.9996438026428223, "bbox_224": [131, 50, 161, 215]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/metal_contamination/010.png", "category": "grid", "score": 0.9782187342643738, "bbox_224": [168, 17, 188, 45]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/thread/010.png", "category": "grid", "score": 0.9391152858734131, "bbox_224": [98, 6, 155, 163]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/thread/005.png", "category": "grid", "score": 0.9960011839866638, "bbox_224": [73, 15, 124, 98]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/thread/006.png", "category": "grid", "score": 0.9731385707855225, "bbox_224": [45, 31, 94, 212]}
+{"source": "saved-image virtual camera", "image_id": "grid/test/thread/007.png", "category": "grid", "score": 0.989658534526825, "bbox_224": [73, 92, 100, 110]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/crack/010.png", "category": "hazelnut", "score": 0.06884200125932693, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/crack/001.png", "category": "hazelnut", "score": 0.9996869564056396, "bbox_224": [122, 88, 180, 157]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/crack/007.png", "category": "hazelnut", "score": 0.2278907597064972, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/crack/017.png", "category": "hazelnut", "score": 0.40860888361930847, "bbox_224": [141, 143, 166, 176]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/crack/005.png", "category": "hazelnut", "score": 0.916759192943573, "bbox_224": [82, 61, 155, 173]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/cut/012.png", "category": "hazelnut", "score": 0.9930827617645264, "bbox_224": [113, 101, 128, 156]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/cut/004.png", "category": "hazelnut", "score": 0.39355331659317017, "bbox_224": [134, 83, 155, 112]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/cut/000.png", "category": "hazelnut", "score": 0.9965499639511108, "bbox_224": [94, 133, 121, 151]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/cut/009.png", "category": "hazelnut", "score": 0.9995996356010437, "bbox_224": [105, 97, 161, 130]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/cut/010.png", "category": "hazelnut", "score": 0.9652928113937378, "bbox_224": [85, 98, 107, 150]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/good/021.png", "category": "hazelnut", "score": 0.0909225344657898, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/good/016.png", "category": "hazelnut", "score": 0.11658754199743271, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/good/009.png", "category": "hazelnut", "score": 0.05431686341762543, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/good/017.png", "category": "hazelnut", "score": 0.08273279666900635, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/good/022.png", "category": "hazelnut", "score": 0.056568693369627, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/hole/017.png", "category": "hazelnut", "score": 0.99000084400177, "bbox_224": [69, 80, 113, 113]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/hole/005.png", "category": "hazelnut", "score": 0.9958658218383789, "bbox_224": [77, 103, 108, 131]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/hole/009.png", "category": "hazelnut", "score": 0.9371196627616882, "bbox_224": [122, 94, 145, 116]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/hole/011.png", "category": "hazelnut", "score": 0.9977909326553345, "bbox_224": [131, 99, 158, 127]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/hole/007.png", "category": "hazelnut", "score": 0.9697220921516418, "bbox_224": [107, 98, 124, 115]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/print/003.png", "category": "hazelnut", "score": 0.9639343619346619, "bbox_224": [158, 92, 180, 141]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/print/000.png", "category": "hazelnut", "score": 0.9999582767486572, "bbox_224": [113, 66, 175, 139]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/print/004.png", "category": "hazelnut", "score": 0.997675359249115, "bbox_224": [62, 56, 95, 132]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/print/015.png", "category": "hazelnut", "score": 0.9407296776771545, "bbox_224": [38, 63, 65, 93]}
+{"source": "saved-image virtual camera", "image_id": "hazelnut/test/print/011.png", "category": "hazelnut", "score": 0.999919056892395, "bbox_224": [60, 62, 118, 128]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/color/008.png", "category": "leather", "score": 0.9998817443847656, "bbox_224": [154, 105, 174, 138]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/color/001.png", "category": "leather", "score": 0.9998917579650879, "bbox_224": [142, 80, 160, 105]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/color/010.png", "category": "leather", "score": 0.9988924860954285, "bbox_224": [173, 31, 190, 47]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/color/004.png", "category": "leather", "score": 0.9999768733978271, "bbox_224": [79, 151, 98, 172]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/color/007.png", "category": "leather", "score": 0.9998424053192139, "bbox_224": [113, 64, 133, 76]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/color/011.png", "category": "leather", "score": 0.9999159574508667, "bbox_224": [62, 140, 78, 164]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/cut/013.png", "category": "leather", "score": 0.999657392501831, "bbox_224": [164, 109, 189, 141]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/cut/004.png", "category": "leather", "score": 0.9999792575836182, "bbox_224": [64, 51, 142, 213]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/cut/003.png", "category": "leather", "score": 0.9999901056289673, "bbox_224": [139, 93, 173, 131]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/cut/006.png", "category": "leather", "score": 0.9999744892120361, "bbox_224": [65, 131, 90, 150]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/cut/017.png", "category": "leather", "score": 0.9999673366546631, "bbox_224": [133, 64, 160, 97]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/cut/008.png", "category": "leather", "score": 0.9999288320541382, "bbox_224": [134, 113, 157, 133]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/fold/016.png", "category": "leather", "score": 0.999548614025116, "bbox_224": [140, 48, 213, 62]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/fold/003.png", "category": "leather", "score": 0.9998214840888977, "bbox_224": [27, 102, 65, 130]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/fold/012.png", "category": "leather", "score": 0.9999281167984009, "bbox_224": [151, 103, 206, 125]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/fold/002.png", "category": "leather", "score": 0.9999430179595947, "bbox_224": [157, 98, 188, 117]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/fold/014.png", "category": "leather", "score": 0.9999971389770508, "bbox_224": [106, 113, 157, 138]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/glue/008.png", "category": "leather", "score": 0.9999289512634277, "bbox_224": [120, 32, 168, 197]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/glue/001.png", "category": "leather", "score": 0.9996881484985352, "bbox_224": [43, 109, 65, 129]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/glue/011.png", "category": "leather", "score": 0.9997909665107727, "bbox_224": [117, 48, 138, 63]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/glue/017.png", "category": "leather", "score": 0.9999324083328247, "bbox_224": [140, 98, 190, 138]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/glue/010.png", "category": "leather", "score": 0.9944032430648804, "bbox_224": [34, 100, 50, 114]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/glue/006.png", "category": "leather", "score": 0.9999444484710693, "bbox_224": [126, 112, 154, 135]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/poke/010.png", "category": "leather", "score": 0.9999103546142578, "bbox_224": [139, 52, 159, 72]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/poke/003.png", "category": "leather", "score": 0.9999560117721558, "bbox_224": [83, 65, 107, 91]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/poke/005.png", "category": "leather", "score": 0.9999674558639526, "bbox_224": [67, 94, 85, 113]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/poke/009.png", "category": "leather", "score": 0.9999665021896362, "bbox_224": [117, 136, 143, 158]}
+{"source": "saved-image virtual camera", "image_id": "leather/test/poke/014.png", "category": "leather", "score": 0.9999750852584839, "bbox_224": [45, 140, 72, 165]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/bent/009.png", "category": "metal_nut", "score": 0.9969086050987244, "bbox_224": [187, 134, 212, 159]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/bent/005.png", "category": "metal_nut", "score": 0.3079511523246765, "bbox_224": [10, 105, 37, 148]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/bent/012.png", "category": "metal_nut", "score": 0.0941402018070221, "bbox_224": [188, 107, 203, 130]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/bent/000.png", "category": "metal_nut", "score": 0.9984388947486877, "bbox_224": [87, 14, 213, 131]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/bent/016.png", "category": "metal_nut", "score": 0.9761585593223572, "bbox_224": [168, 133, 197, 171]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/bent/023.png", "category": "metal_nut", "score": 0.3165943920612335, "bbox_224": [67, 17, 108, 46]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/bent/018.png", "category": "metal_nut", "score": 0.09072083234786987, "bbox_224": [44, 13, 89, 69]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/color/011.png", "category": "metal_nut", "score": 0.8096178770065308, "bbox_224": [19, 18, 160, 97]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/color/021.png", "category": "metal_nut", "score": 0.34360793232917786, "bbox_224": [31, 71, 90, 93]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/color/020.png", "category": "metal_nut", "score": 0.7599198222160339, "bbox_224": [73, 21, 102, 69]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/color/004.png", "category": "metal_nut", "score": 0.05392392724752426, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/color/012.png", "category": "metal_nut", "score": 0.06926369667053223, "bbox_224": [146, 47, 165, 68]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/flip/001.png", "category": "metal_nut", "score": 0.9992000460624695, "bbox_224": [9, 6, 216, 212]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/flip/006.png", "category": "metal_nut", "score": 0.9974514842033386, "bbox_224": [10, 11, 215, 211]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/flip/002.png", "category": "metal_nut", "score": 0.9988627433776855, "bbox_224": [9, 7, 216, 212]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/flip/004.png", "category": "metal_nut", "score": 0.9981447458267212, "bbox_224": [8, 9, 219, 211]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/flip/010.png", "category": "metal_nut", "score": 0.9997262358665466, "bbox_224": [20, 19, 204, 204]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/flip/005.png", "category": "metal_nut", "score": 0.9988322854042053, "bbox_224": [7, 10, 217, 210]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/flip/009.png", "category": "metal_nut", "score": 0.9995948672294617, "bbox_224": [13, 10, 212, 210]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/scratch/010.png", "category": "metal_nut", "score": 0.47185394167900085, "bbox_224": [22, 19, 182, 93]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/scratch/005.png", "category": "metal_nut", "score": 0.9493460655212402, "bbox_224": [79, 18, 191, 71]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/scratch/018.png", "category": "metal_nut", "score": 0.5606539249420166, "bbox_224": [37, 18, 158, 175]}
+{"source": "saved-image virtual camera", "image_id": "metal_nut/test/scratch/015.png", "category": "metal_nut", "score": 0.8896704912185669, "bbox_224": [119, 138, 166, 178]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/color/002.png", "category": "pill", "score": 0.985789954662323, "bbox_224": [201, 105, 206, 117]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/color/001.png", "category": "pill", "score": 0.9938316345214844, "bbox_224": [147, 88, 185, 117]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/color/004.png", "category": "pill", "score": 0.5837287902832031, "bbox_224": [50, 61, 75, 84]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/color/011.png", "category": "pill", "score": 0.5453363060951233, "bbox_224": [106, 64, 113, 72]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/color/022.png", "category": "pill", "score": 0.9356544613838196, "bbox_224": [159, 93, 182, 123]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/color/000.png", "category": "pill", "score": 0.8401428461074829, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/color/005.png", "category": "pill", "score": 0.7388702034950256, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/combined/004.png", "category": "pill", "score": 0.9328612089157104, "bbox_224": [34, 49, 183, 143]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/combined/012.png", "category": "pill", "score": 0.7843796014785767, "bbox_224": [95, 62, 200, 177]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/combined/002.png", "category": "pill", "score": 0.9957751631736755, "bbox_224": [20, 81, 210, 136]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/combined/006.png", "category": "pill", "score": 0.9611170887947083, "bbox_224": [128, 62, 199, 120]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/combined/010.png", "category": "pill", "score": 0.9923495054244995, "bbox_224": [74, 52, 206, 133]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/contamination/010.png", "category": "pill", "score": 0.559983491897583, "bbox_224": [193, 137, 195, 138]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/contamination/003.png", "category": "pill", "score": 0.9722846150398254, "bbox_224": [105, 168, 129, 187]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/contamination/020.png", "category": "pill", "score": 0.9270819425582886, "bbox_224": [11, 101, 38, 137]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/contamination/000.png", "category": "pill", "score": 0.45696091651916504, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/contamination/008.png", "category": "pill", "score": 0.6272048354148865, "bbox_224": [75, 105, 81, 113]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/contamination/005.png", "category": "pill", "score": 0.6217010021209717, "bbox_224": [77, 63, 136, 129]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/crack/002.png", "category": "pill", "score": 0.9264275431632996, "bbox_224": [123, 110, 203, 173]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/crack/004.png", "category": "pill", "score": 0.7183449268341064, "bbox_224": [18, 76, 41, 106]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/crack/011.png", "category": "pill", "score": 0.9891945123672485, "bbox_224": [126, 154, 162, 180]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/crack/023.png", "category": "pill", "score": 0.8065109252929688, "bbox_224": [183, 81, 208, 121]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/crack/022.png", "category": "pill", "score": 0.4692839980125427, "bbox_224": [100, 47, 129, 63]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/crack/003.png", "category": "pill", "score": 0.8018439412117004, "bbox_224": [198, 124, 203, 134]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/crack/014.png", "category": "pill", "score": 0.4206133186817169, "bbox_224": [166, 61, 181, 71]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/faulty_imprint/003.png", "category": "pill", "score": 0.40197914838790894, "bbox_224": [125, 106, 140, 140]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/faulty_imprint/014.png", "category": "pill", "score": 0.6784657835960388, "bbox_224": [124, 81, 158, 109]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/faulty_imprint/000.png", "category": "pill", "score": 0.5302545428276062, "bbox_224": [129, 99, 141, 114]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/faulty_imprint/013.png", "category": "pill", "score": 0.46102195978164673, "bbox_224": [73, 85, 122, 133]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/faulty_imprint/017.png", "category": "pill", "score": 0.7110186219215393, "bbox_224": [123, 93, 146, 144]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/faulty_imprint/012.png", "category": "pill", "score": 0.9099308848381042, "bbox_224": [123, 104, 204, 147]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/good/008.png", "category": "pill", "score": 0.338075190782547, "bbox_224": [77, 109, 85, 130]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/good/017.png", "category": "pill", "score": 0.27014651894569397, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/good/006.png", "category": "pill", "score": 0.5835863351821899, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/good/011.png", "category": "pill", "score": 0.27915138006210327, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/good/001.png", "category": "pill", "score": 0.32853227853775024, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/good/021.png", "category": "pill", "score": 0.33133625984191895, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/good/003.png", "category": "pill", "score": 0.2978210151195526, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/pill_type/006.png", "category": "pill", "score": 0.3945554196834564, "bbox_224": [11, 45, 212, 179]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/pill_type/002.png", "category": "pill", "score": 0.9277953505516052, "bbox_224": [15, 45, 210, 178]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/pill_type/000.png", "category": "pill", "score": 0.9599941968917847, "bbox_224": [6, 44, 213, 179]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/scratch/007.png", "category": "pill", "score": 0.6284139752388, "bbox_224": [87, 50, 164, 86]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/scratch/003.png", "category": "pill", "score": 0.9734141826629639, "bbox_224": [147, 93, 206, 150]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/scratch/019.png", "category": "pill", "score": 0.5824176073074341, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/scratch/005.png", "category": "pill", "score": 0.4772421717643738, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "pill/test/scratch/017.png", "category": "pill", "score": 0.6292065382003784, "bbox_224": [152, 117, 184, 158]}
+{"source": "saved-image virtual camera", "image_id": "pill/test/scratch/023.png", "category": "pill", "score": 0.39612501859664917, "bbox_224": [21, 82, 63, 147]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/026.png", "category": "screw", "score": 0.32532501220703125, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/012.png", "category": "screw", "score": 0.36063289642333984, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/024.png", "category": "screw", "score": 0.5236566662788391, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/013.png", "category": "screw", "score": 0.3863067626953125, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/004.png", "category": "screw", "score": 0.3360031545162201, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/017.png", "category": "screw", "score": 0.6177281737327576, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/039.png", "category": "screw", "score": 0.44961562752723694, "bbox_224": [125, 197, 130, 206]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/018.png", "category": "screw", "score": 0.6228571534156799, "bbox_224": [106, 200, 110, 205]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/014.png", "category": "screw", "score": 0.28942570090293884, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/011.png", "category": "screw", "score": 0.47178488969802856, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/good/030.png", "category": "screw", "score": 0.4232850968837738, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/manipulated_front/015.png", "category": "screw", "score": 0.9736282825469971, "bbox_224": [19, 82, 206, 133]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/manipulated_front/000.png", "category": "screw", "score": 0.718338131904602, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/manipulated_front/016.png", "category": "screw", "score": 0.8744941353797913, "bbox_224": [84, 195, 92, 209]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/manipulated_front/021.png", "category": "screw", "score": 0.8527206778526306, "bbox_224": [189, 53, 189, 54]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/manipulated_front/008.png", "category": "screw", "score": 0.26210346817970276, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/manipulated_front/006.png", "category": "screw", "score": 0.8581564426422119, "bbox_224": [31, 49, 175, 190]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_head/004.png", "category": "screw", "score": 0.6162921190261841, "bbox_224": [42, 181, 54, 197]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_head/017.png", "category": "screw", "score": 0.9559326171875, "bbox_224": [115, 106, 125, 120]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_head/006.png", "category": "screw", "score": 0.8930613398551941, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_head/015.png", "category": "screw", "score": 0.4598139226436615, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_head/001.png", "category": "screw", "score": 0.9465078711509705, "bbox_224": [24, 78, 207, 96]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_head/007.png", "category": "screw", "score": 0.9566925168037415, "bbox_224": [193, 118, 202, 123]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_neck/010.png", "category": "screw", "score": 0.8194577693939209, "bbox_224": [181, 188, 182, 190]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_neck/007.png", "category": "screw", "score": 0.8373000025749207, "bbox_224": [70, 125, 118, 189]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_neck/004.png", "category": "screw", "score": 0.8190455436706543, "bbox_224": [179, 59, 187, 74]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_neck/009.png", "category": "screw", "score": 0.9319919347763062, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_neck/001.png", "category": "screw", "score": 0.9502203464508057, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_neck/006.png", "category": "screw", "score": 0.6490408778190613, "bbox_224": [105, 135, 118, 183]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/scratch_neck/019.png", "category": "screw", "score": 0.9201140403747559, "bbox_224": [18, 73, 34, 81]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_side/021.png", "category": "screw", "score": 0.8353105783462524, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_side/005.png", "category": "screw", "score": 0.8683063983917236, "bbox_224": [186, 181, 186, 182]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_side/000.png", "category": "screw", "score": 0.23720218241214752, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_side/007.png", "category": "screw", "score": 0.7815712094306946, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_side/006.png", "category": "screw", "score": 0.832741379737854, "bbox_224": [49, 57, 56, 62]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_side/017.png", "category": "screw", "score": 0.5199056267738342, "bbox_224": [101, 18, 146, 179]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_side/008.png", "category": "screw", "score": 0.9317842125892639, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_top/012.png", "category": "screw", "score": 0.9548231363296509, "bbox_224": [80, 78, 86, 86]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_top/015.png", "category": "screw", "score": 0.9070072770118713, "bbox_224": [53, 19, 59, 30]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_top/011.png", "category": "screw", "score": 0.8455137014389038, "bbox_224": [178, 59, 192, 88]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_top/021.png", "category": "screw", "score": 0.8330458998680115, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_top/020.png", "category": "screw", "score": 0.563688337802887, "bbox_224": [114, 38, 126, 61]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_top/019.png", "category": "screw", "score": 0.8714014291763306, "bbox_224": [142, 201, 142, 201]}
+{"source": "saved-image virtual camera", "image_id": "screw/test/thread_top/013.png", "category": "screw", "score": 0.9001879692077637, "bbox_224": [93, 69, 110, 209]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/crack/001.png", "category": "tile", "score": 0.9652028679847717, "bbox_224": [30, 15, 154, 171]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/crack/010.png", "category": "tile", "score": 0.9996238946914673, "bbox_224": [39, 154, 70, 178]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/crack/014.png", "category": "tile", "score": 0.9964740872383118, "bbox_224": [71, 8, 111, 115]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/crack/004.png", "category": "tile", "score": 0.974210262298584, "bbox_224": [78, 7, 96, 89]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/crack/003.png", "category": "tile", "score": 0.9979329109191895, "bbox_224": [41, 3, 136, 123]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/glue_strip/016.png", "category": "tile", "score": 0.3771163523197174, "bbox_224": [41, 60, 91, 103]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/glue_strip/005.png", "category": "tile", "score": 0.9905537962913513, "bbox_224": [68, 108, 121, 179]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/glue_strip/017.png", "category": "tile", "score": 0.9583294987678528, "bbox_224": [61, 58, 183, 151]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/glue_strip/010.png", "category": "tile", "score": 0.9863970875740051, "bbox_224": [135, 44, 217, 178]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/gray_stroke/012.png", "category": "tile", "score": 0.43707725405693054, "bbox_224": [76, 204, 138, 214]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/gray_stroke/007.png", "category": "tile", "score": 0.9981839060783386, "bbox_224": [44, 92, 127, 171]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/gray_stroke/015.png", "category": "tile", "score": 0.9933823347091675, "bbox_224": [181, 115, 215, 147]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/gray_stroke/002.png", "category": "tile", "score": 0.5668156743049622, "bbox_224": [3, 2, 32, 31]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/oil/012.png", "category": "tile", "score": 0.9988067150115967, "bbox_224": [73, 80, 164, 166]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/oil/000.png", "category": "tile", "score": 0.9958042502403259, "bbox_224": [52, 46, 177, 176]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/oil/004.png", "category": "tile", "score": 0.9995778203010559, "bbox_224": [133, 19, 221, 119]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/oil/011.png", "category": "tile", "score": 0.9991614818572998, "bbox_224": [67, 80, 155, 171]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/oil/007.png", "category": "tile", "score": 0.9945515990257263, "bbox_224": [21, 30, 132, 137]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/rough/002.png", "category": "tile", "score": 0.4285932183265686, "bbox_224": [96, 109, 156, 166]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/rough/012.png", "category": "tile", "score": 0.13644298911094666, "bbox_224": [183, 144, 220, 208]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/rough/014.png", "category": "tile", "score": 0.7224809527397156, "bbox_224": [5, 0, 221, 42]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/rough/009.png", "category": "tile", "score": 0.9222245216369629, "bbox_224": [0, 62, 223, 163]}
+{"source": "saved-image virtual camera", "image_id": "tile/test/rough/001.png", "category": "tile", "score": 0.6710180640220642, "bbox_224": [77, 23, 133, 145]}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/defective/024.png", "category": "toothbrush", "score": 0.11177272349596024, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/defective/004.png", "category": "toothbrush", "score": 0.20772859454154968, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/defective/022.png", "category": "toothbrush", "score": 0.9973834156990051, "bbox_224": [58, 40, 165, 165]}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/defective/013.png", "category": "toothbrush", "score": 0.07154414802789688, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/defective/029.png", "category": "toothbrush", "score": 0.9988180994987488, "bbox_224": [68, 12, 158, 99]}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/defective/003.png", "category": "toothbrush", "score": 0.2207326740026474, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/defective/002.png", "category": "toothbrush", "score": 0.5819562077522278, "bbox_224": [94, 76, 151, 211]}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/defective/010.png", "category": "toothbrush", "score": 0.9896785020828247, "bbox_224": [62, 159, 159, 219]}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/good/009.png", "category": "toothbrush", "score": 0.166756734251976, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/good/008.png", "category": "toothbrush", "score": 0.0792805552482605, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "toothbrush/test/good/002.png", "category": "toothbrush", "score": 0.19166706502437592, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/bent_lead/006.png", "category": "transistor", "score": 0.9914616346359253, "bbox_224": [52, 27, 171, 217]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/bent_lead/007.png", "category": "transistor", "score": 0.9790793657302856, "bbox_224": [48, 33, 170, 207]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/bent_lead/002.png", "category": "transistor", "score": 0.8942375183105469, "bbox_224": [49, 81, 125, 202]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/cut_lead/004.png", "category": "transistor", "score": 0.86576908826828, "bbox_224": [50, 74, 177, 198]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/cut_lead/005.png", "category": "transistor", "score": 0.5452250242233276, "bbox_224": [101, 172, 119, 198]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/cut_lead/000.png", "category": "transistor", "score": 0.8549331426620483, "bbox_224": [46, 5, 170, 210]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/damaged_case/006.png", "category": "transistor", "score": 0.9269970655441284, "bbox_224": [94, 39, 131, 195]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/damaged_case/001.png", "category": "transistor", "score": 0.9866070747375488, "bbox_224": [73, 45, 171, 197]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/damaged_case/007.png", "category": "transistor", "score": 0.8846248388290405, "bbox_224": [100, 66, 135, 190]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/026.png", "category": "transistor", "score": 0.10474645346403122, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/059.png", "category": "transistor", "score": 0.593974232673645, "bbox_224": [101, 159, 122, 198]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/008.png", "category": "transistor", "score": 0.4164608120918274, "bbox_224": [101, 168, 159, 194]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/040.png", "category": "transistor", "score": 0.5633277893066406, "bbox_224": [104, 161, 124, 196]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/033.png", "category": "transistor", "score": 0.45304399728775024, "bbox_224": [98, 80, 119, 194]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/012.png", "category": "transistor", "score": 0.6377387642860413, "bbox_224": [58, 166, 123, 195]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/030.png", "category": "transistor", "score": 0.13655664026737213, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/034.png", "category": "transistor", "score": 0.7357317209243774, "bbox_224": [53, 151, 161, 196]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/057.png", "category": "transistor", "score": 0.47767210006713867, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/015.png", "category": "transistor", "score": 0.17225851118564606, "bbox_224": [106, 179, 118, 193]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/053.png", "category": "transistor", "score": 0.050408706068992615, "bbox_224": null}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/000.png", "category": "transistor", "score": 0.43766048550605774, "bbox_224": [102, 166, 122, 199]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/031.png", "category": "transistor", "score": 0.4187123775482178, "bbox_224": [102, 179, 118, 194]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/good/036.png", "category": "transistor", "score": 0.35379844903945923, "bbox_224": [103, 172, 118, 194]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/misplaced/002.png", "category": "transistor", "score": 0.6221333146095276, "bbox_224": [7, 4, 217, 218]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/misplaced/001.png", "category": "transistor", "score": 0.9921097159385681, "bbox_224": [39, 15, 182, 209]}
+{"source": "saved-image virtual camera", "image_id": "transistor/test/misplaced/008.png", "category": "transistor", "score": 0.9996258020401001, "bbox_224": [14, 5, 217, 200]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/color/007.png", "category": "wood", "score": 0.9983519315719604, "bbox_224": [80, 41, 165, 187]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/color/005.png", "category": "wood", "score": 0.9999929666519165, "bbox_224": [57, 48, 186, 175]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/combined/004.png", "category": "wood", "score": 0.9985172152519226, "bbox_224": [74, 58, 121, 143]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/combined/001.png", "category": "wood", "score": 0.9995514750480652, "bbox_224": [45, 7, 135, 151]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/combined/000.png", "category": "wood", "score": 0.9995551705360413, "bbox_224": [52, 5, 191, 176]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/combined/010.png", "category": "wood", "score": 0.999946117401123, "bbox_224": [48, 81, 181, 185]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/hole/004.png", "category": "wood", "score": 0.996039628982544, "bbox_224": [35, 36, 130, 193]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/hole/009.png", "category": "wood", "score": 0.9995613694190979, "bbox_224": [32, 44, 171, 68]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/hole/005.png", "category": "wood", "score": 0.9929479360580444, "bbox_224": [83, 8, 107, 199]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/liquid/006.png", "category": "wood", "score": 0.9745705127716064, "bbox_224": [42, 122, 114, 183]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/liquid/007.png", "category": "wood", "score": 0.9998393058776855, "bbox_224": [95, 86, 146, 128]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/liquid/004.png", "category": "wood", "score": 0.993958592414856, "bbox_224": [95, 61, 182, 153]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/scratch/012.png", "category": "wood", "score": 0.9850983619689941, "bbox_224": [27, 4, 178, 174]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/scratch/008.png", "category": "wood", "score": 0.9997610449790955, "bbox_224": [18, 115, 132, 200]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/scratch/005.png", "category": "wood", "score": 0.9877607822418213, "bbox_224": [3, 13, 100, 205]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/scratch/010.png", "category": "wood", "score": 0.99946528673172, "bbox_224": [45, 51, 173, 141]}
+{"source": "saved-image virtual camera", "image_id": "wood/test/scratch/002.png", "category": "wood", "score": 0.9990755319595337, "bbox_224": [4, 88, 172, 150]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/broken_teeth/010.png", "category": "zipper", "score": 0.9988075494766235, "bbox_224": [100, 102, 131, 137]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/broken_teeth/000.png", "category": "zipper", "score": 0.9953616261482239, "bbox_224": [96, 15, 129, 209]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/broken_teeth/014.png", "category": "zipper", "score": 0.9981574416160583, "bbox_224": [98, 84, 128, 120]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/broken_teeth/007.png", "category": "zipper", "score": 0.9964287877082825, "bbox_224": [91, 11, 135, 201]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/broken_teeth/006.png", "category": "zipper", "score": 0.9948940277099609, "bbox_224": [90, 86, 124, 118]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/broken_teeth/003.png", "category": "zipper", "score": 0.9979433417320251, "bbox_224": [96, 69, 134, 215]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/combined/014.png", "category": "zipper", "score": 0.9970113039016724, "bbox_224": [92, 157, 128, 207]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/combined/015.png", "category": "zipper", "score": 0.9983460903167725, "bbox_224": [16, 10, 132, 198]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/combined/012.png", "category": "zipper", "score": 0.9977479577064514, "bbox_224": [98, 121, 186, 198]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/combined/002.png", "category": "zipper", "score": 0.599640965461731, "bbox_224": [93, 7, 130, 203]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/fabric_border/013.png", "category": "zipper", "score": 0.9957303404808044, "bbox_224": [15, 74, 35, 101]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/fabric_border/012.png", "category": "zipper", "score": 0.9982569813728333, "bbox_224": [21, 71, 205, 156]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/fabric_border/008.png", "category": "zipper", "score": 0.9833160042762756, "bbox_224": [182, 20, 204, 130]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/fabric_border/011.png", "category": "zipper", "score": 0.9936555624008179, "bbox_224": [25, 27, 200, 192]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/fabric_border/004.png", "category": "zipper", "score": 0.9962908029556274, "bbox_224": [22, 11, 203, 166]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/fabric_interior/001.png", "category": "zipper", "score": 0.9137963056564331, "bbox_224": [71, 190, 103, 212]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/fabric_interior/002.png", "category": "zipper", "score": 0.988224983215332, "bbox_224": [73, 13, 152, 209]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/fabric_interior/012.png", "category": "zipper", "score": 0.9423165321350098, "bbox_224": [69, 137, 105, 159]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/fabric_interior/008.png", "category": "zipper", "score": 0.9911796450614929, "bbox_224": [58, 171, 87, 201]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/rough/004.png", "category": "zipper", "score": 0.9897368550300598, "bbox_224": [92, 33, 123, 207]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/rough/012.png", "category": "zipper", "score": 0.9893006682395935, "bbox_224": [94, 13, 129, 211]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/rough/007.png", "category": "zipper", "score": 0.9853156805038452, "bbox_224": [95, 18, 127, 68]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/rough/003.png", "category": "zipper", "score": 0.9948983788490295, "bbox_224": [93, 5, 128, 208]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/rough/008.png", "category": "zipper", "score": 0.9919988512992859, "bbox_224": [99, 155, 129, 210]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/split_teeth/013.png", "category": "zipper", "score": 0.9947444200515747, "bbox_224": [88, 10, 129, 56]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/split_teeth/006.png", "category": "zipper", "score": 0.9799520373344421, "bbox_224": [91, 15, 130, 79]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/split_teeth/001.png", "category": "zipper", "score": 0.9882984161376953, "bbox_224": [90, 17, 127, 68]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/split_teeth/016.png", "category": "zipper", "score": 0.9984853863716125, "bbox_224": [96, 141, 131, 181]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/split_teeth/003.png", "category": "zipper", "score": 0.8837482333183289, "bbox_224": [94, 125, 128, 187]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/squeezed_teeth/007.png", "category": "zipper", "score": 0.9986685514450073, "bbox_224": [97, 16, 126, 53]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/squeezed_teeth/009.png", "category": "zipper", "score": 0.9957907795906067, "bbox_224": [96, 128, 125, 181]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/squeezed_teeth/008.png", "category": "zipper", "score": 0.15234263241291046, "bbox_224": [99, 122, 128, 164]}
+{"source": "saved-image virtual camera", "image_id": "zipper/test/squeezed_teeth/001.png", "category": "zipper", "score": 0.9929049611091614, "bbox_224": [96, 15, 126, 71]}

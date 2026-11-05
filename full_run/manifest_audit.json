@@ -1,0 +1,40 @@
+{
+  "images": 5354,
+  "categories": [
+    "bottle",
+    "cable",
+    "capsule",
+    "carpet",
+    "grid",
+    "hazelnut",
+    "leather",
+    "metal_nut",
+    "pill",
+    "screw",
+    "tile",
+    "toothbrush",
+    "transistor",
+    "wood",
+    "zipper"
+  ],
+  "counts": {
+    "train": {
+      "normal": 3860,
+      "defect": 610
+    },
+    "val": {
+      "defect": 285,
+      "normal": 113
+    },
+    "test": {
+      "defect": 363,
+      "normal": 123
+    }
+  },
+  "calibration_training_images": 120,
+  "duplicates": 0,
+  "missing_images_or_masks": 0,
+  "original_train_good_in_validation_or_test": 0,
+  "test_or_validation_used_for_calibration": 0,
+  "result": "pass"
+}
